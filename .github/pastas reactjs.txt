@@ -1,0 +1,31 @@
++-- src
++-- assets
++-- config
++-- themes
++-- hooks
++-- pages
++-- services
++-- types
++-- ui
++-- components
+
+assets - Imagens, ícones e fontes.
+config - Onde deixo um objeto com temas que vão ser utilizados (colors, font, grid).
+pages - Componentes da página.
+services - Chamadas a API, etc.
+types - Tipos compartilhados, definições de tipo (.d.ts), etc.
+ui - Componentes compartilhados e reutilizáveis.
+
+// Componentes
+
++-- components
++-- <MyComponent>
++-- <MyComponent>.tsx
++-- <MyComponent>.test.tsx
++-- <MyComponent>.styled.ts
++-- index.ts
+
+.tsx - Implementação de componentes.
+.test.tsx - Testes de componentes.
+.styled.ts - Estilo do componente usando styled-components.
+index.ts - Arquivo para exportar o componente.

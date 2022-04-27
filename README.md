@@ -1,5 +1,5 @@
 <p align="center">
-<img src="src/resources//Logotype.jpg" alt="drawing" width="100"/>
+<img src=".github/Logotype.jpg" alt="LOGO" width="100"/>
 </p>
 
 # Apito Final
@@ -13,37 +13,37 @@
 
 ### Requisitos
 Os requisítos para rodar o projeto no seu computador de forma correta, são:
-- Netbeans em sua versão LTS - [Link do download](https://netbeans.apache.org/download/nb126/) 
-- JDK na sua versão LTS - [Link do download](https://www.oracle.com/java/technologies/downloads/#java11)
-- Scene Builder - [Link do download](https://gluonhq.com/products/scene-builder/)
-- WAMP (mas pode ser o XAMP ou o LAMP) - [Link para download WAMP](https://www.wampserver.com/en/)
+- VS Code - [Link do download](https://code.visualstudio.com/#alt-downloads)
+- React JS - [Como utilizar](https://create-react-app.dev/docs/adding-typescript/)
+- Node JS - [Link do download](https://nodejs.org/en/download/)
 - MySQL Workbench - [Link do download](https://dev.mysql.com/downloads/workbench/)
 - GIT - [Link do download](https://git-scm.com/downloads)
   
-### Funcionalidades
 
-- [X] Login
-- [x] Protótipos - [Figma](https://www.figma.com/file/VavJs7XzcKQ2lKGyYVWDRq/Apito-Final?node-id=0%3A1).
-- [x] Cadastrar
-- [x] Home - Cadastrar Campeonato
-- [x] Cadastrar Campeonato
-- [x] Seleção dos Times
-- [x] Cadastrar Time
-- [x] Selecionar Campeonato
-- [x] Partidas
-
-### Links extras
-- [Diagrama UML](https://drive.google.com/drive/u/2/folders/19lr1ObBU4ttlNEZp5q1sKDbzoo64AHk1)
-- [Diagrama do Banco de Dados](https://drive.google.com/drive/u/2/folders/1umx6lOUSFbz543qr8jgCKt5qRFCWtKKd)
-- [Link do drive com algumas telas](https://drive.google.com/drive/folders/1BrZTD0Nn3nANPlK7eNpI3yWyeuWHy0xY)
-  
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
-- SQL
+- React JS
+- NODE JS
+- TypeScript
+- Styled Components
+- React Router Dom
 - GIT
-- JAVA
-- JAVA FX
+- Figma
+### Funcionalidades
+
+- [ ] Login
+- [ ] Protótipos 
+- [ ] Cadastrar
+- [ ] Home - Cadastrar Campeonato
+- [ ] Cadastrar Campeonato
+- [ ] Seleção dos Times
+- [ ] Cadastrar Time
+- [ ] Selecionar Campeonato
+- [ ] Partidas
+
+### Diagramas
+
 ### Desenvolvedores
 <table>
 <tr>

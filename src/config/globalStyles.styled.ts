@@ -13,7 +13,14 @@ export const GlobalStyle = createGlobalStyle`
         /*Login*/
         /*Fontes*/
         --font-login-header: normal normal 800  ${pxToRem(24)}/${pxToRem(
-  32.74
-)} var(--font);      
+  33
+)} var(--font);   
+
+        /*Cor da fonte */
+        --font-color-login-header: #fff;
+
+        /*Background*/
+        --background-login-header: #020905;
+        --background-login-buttons: #00C041;
     }
 `;

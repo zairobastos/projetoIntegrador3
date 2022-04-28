@@ -14,6 +14,7 @@
 ### Requisitos
 Os requisítos para rodar o projeto no seu computador de forma correta, são:
 - VS Code - [Link do download](https://code.visualstudio.com/#alt-downloads)
+  - Styled Components Plugin - [Link do download](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components)
 - React JS - [Como utilizar](https://create-react-app.dev/docs/adding-typescript/)
 - Node JS - [Link do download](https://nodejs.org/en/download/)
 - MySQL Workbench - [Link do download](https://dev.mysql.com/downloads/workbench/)

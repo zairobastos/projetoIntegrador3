@@ -11,6 +11,10 @@
 
 > Atividades esportivas são importantes para a saúde, ajudando na prevenção e no combate de várias doenças como a depressão. É muito comum a realização de práticas esportivas em grupo, as vezes os amigos gostam de competir para tornar a atividade esportiva mais interessante. A organização e o acompanhamento de uma competição esportiva pode ser mais prática com um programa para gerenciar o torneio, partindo desses principios surge o **Apito Final**.
 
+### Tela de Login
+![imagem da tela login](.github/FireShot%20Capture%20005%20-%20Apito%20Final%20-%20apitofinal.vercel.app.png)
+
+[Acesse ao deploy da aplicação](https://apitofinal.vercel.app/)
 ### Requisitos
 Os requisítos para rodar o projeto no seu computador de forma correta, são:
 - VS Code - [Link do download](https://code.visualstudio.com/#alt-downloads)
@@ -19,6 +23,8 @@ Os requisítos para rodar o projeto no seu computador de forma correta, são:
 - Node JS - [Link do download](https://nodejs.org/en/download/)
 - MySQL Workbench - [Link do download](https://dev.mysql.com/downloads/workbench/)
 - GIT - [Link do download](https://git-scm.com/downloads)
+- Figma - [Link para Visualização](https://www.figma.com/file/cU85A0PsPe4UMPK4VAe5Bj/Apito-Final---Vers%C3%A3o-WEB-(Copy)?node-id=32%3A9)
+- Banco de Dados - [Link](https://drive.google.com/drive/u/0/folders/1umx6lOUSFbz543qr8jgCKt5qRFCWtKKd)
   
 
 ### 🛠 Tecnologias
@@ -44,6 +50,20 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [ ] Partidas
 
 ### Diagramas
+#### Diagrama de Sequência
+![sequencia](.github/sequencia.jpg)
+
+#### Diagrama de Transição de Dados
+![transição de dados](.github/trasi%C3%A7%C3%A3o%20de%20estados.jpg)
+
+#### UML Pacote
+![UML Pacote](.github/UML%20PACOTE.jpg)
+
+#### Diagrama de Casos de Uso
+![Diagrama de Casos de Uso](.github/ApitoFinal%20-%20Diagrama%20de%20Caso%20de%20Uso.drawio%20(2)_page-0001.jpg)
+
+#### Diagrama de Classes
+![Diagrama de Classes](.github.com/../.github/Diagrama%20de%20Classes%20-%20ApitoFinal.drawio_page-0001.jpg)
 
 ### Desenvolvedores
 <table>
